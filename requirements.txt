@@ -21,3 +21,6 @@ GitPython
 netlify-py
 Markdown
 xhtml2pdf
+groq
+google-generativeai
+duckduckgo-search
